@@ -1,148 +1,198 @@
-<!-- INTECH LABS README -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=200&section=header&text=INTECH%20LABS&fontSize=72&fontColor=00f7ff&fontAlignY=55&desc=Cybersecurity%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=75&descSize=16&descFontColor=8892b0&animation=fadeIn" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020409,30:0d1117,60:0a192f,100:020409&height=220&section=header&text=INTECH%20LABS&fontSize=80&fontColor=00f7ff&fontAlignY=50&desc=We%20don%27t%20just%20build%20software%20%E2%80%94%20we%20build%20trusted%20systems&descSize=14&descFontColor=64ffda&descAlignY=72&animation=blinking&stroke=00f7ff&strokeWidth=2" width="100%" />
 </div>
 
----
+<br/>
 
 <div align="center">
+  <a href="https://intechlabs.co.za">
+    <img src="https://img.shields.io/badge/intechlabs.co.za-020409?style=flat-square&logo=googlechrome&logoColor=64ffda&labelColor=020409&color=020409" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/South%20Africa-020409?style=flat-square&logo=googlemaps&logoColor=64ffda" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Int3ch-Labs&style=flat-square&color=00f7ff&label=profile+views&labelColor=020409" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🛡️+Securing+the+Digital+Frontier;⚙️+Engineering+Modern+Solutions;☁️+Cloud-Native+Infrastructure;🤖+Intelligent+AI+Systems;🔐+Offensive+%26+Defensive+Security" alt="Typing SVG" />
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=580&lines=%24+initializing+secure+connection...;%E2%96%88+OFFENSIVE+SECURITY+%7C+RED+TEAMING;%E2%96%88+DEFENSIVE+OPS+%7C+THREAT+INTELLIGENCE;%E2%96%88+CLOUD+INFRASTRUCTURE+%7C+AWS+%7C+K8s;%E2%96%88+AI+%26+ML+ENGINEERING;%E2%96%88+SECURE+SOFTWARE+DEVELOPMENT;%24+access+granted.+welcome+to+intech+labs_" />
 </div>
 
 <br/>
 
 ---
 
-## ◈ About Intech Labs
+<br/>
 
-> **Intech Labs** is a cybersecurity and software development company building **secure**, **scalable**, and **intelligent** digital infrastructure for businesses worldwide. We operate at the intersection of security-first engineering and cutting-edge technology.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-We don't just build software — we build **trusted systems**.
+## `> whoami`
+
+```typescript
+const IntechLabs = {
+  mission   : "Secure the digital world, one system at a time",
+  founded   : "South Africa 🇿🇦",
+  domains   : ["Cybersecurity", "Software Engineering", "Cloud", "AI/ML"],
+  philosophy: "Zero-trust by default. Resilience by design.",
+  approach  : "Security is not a feature — it's the foundation",
+  website   : "https://intechlabs.co.za",
+};
+```
+
+<br/>
 
 ---
 
-## ◈ Core Competencies
+## `> ls ./capabilities`
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Offensive_Security-FF4444?style=for-the-badge&logo=kalilinux&logoColor=white" /><br/>
-      <sub>Penetration testing, red teaming, vulnerability research</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Defensive_Security-00AA88?style=for-the-badge&logo=shield&logoColor=white" /><br/>
-      <sub>SOC operations, threat detection, incident response</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Secure_Development-0066FF?style=for-the-badge&logo=code&logoColor=white" /><br/>
-      <sub>Security-first SDLC, code audits, secure architecture</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Cloud_Infrastructure-FF8800?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-      <sub>Multi-cloud strategy, IaC, cost optimization</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-9B59B6?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-      <sub>ML pipelines, LLM integration, intelligent automation</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/DevOps_Automation-22CCAA?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
-      <sub>CI/CD pipelines, container orchestration, GitOps</sub>
-    </td>
+    <td width="50%" valign="top">
+
+### 🔴 &nbsp; Offensive Security
+```
+├── Penetration Testing
+├── Red Team Operations  
+├── Vulnerability Research
+├── Social Engineering Audits
+└── CVE Analysis & Exploitation
+```
+
+### 🟣 &nbsp; AI & Machine Learning
+```
+├── LLM Integration & Fine-tuning
+├── Intelligent Automation
+├── ML Pipeline Engineering
+├── AI-Powered Threat Detection
+└── Predictive Security Analytics
+```
+
+</td>
+    <td width="50%" valign="top">
+
+### 🟢 &nbsp; Defensive Security
+```
+├── SOC Operations & SIEM
+├── Threat Intelligence
+├── Incident Response
+├── DFIR Investigations
+└── Security Architecture Review
+```
+
+### 🔵 &nbsp; Cloud & DevOps
+```
+├── Multi-Cloud Architecture (AWS)
+├── Container Orchestration (K8s)
+├── Infrastructure as Code
+├── CI/CD Pipeline Engineering
+└── GitOps & DevSecOps
+```
+
+</td>
   </tr>
 </table>
 
 ---
 
-## ◈ Technology Stack
+## `> cat ./stack.json`
 
 <div align="center">
 
-**Frontend & Backend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,python&theme=dark" />
+**[ Application Layer ]**
 
-**Infrastructure & Cloud**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,dotnet,python&theme=dark&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&theme=dark" />
+<br/><br/>
 
-**Data & Security**
+**[ Infrastructure Layer ]**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,grafana,githubactions,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux&theme=dark&perline=6" />
+
+<br/><br/>
+
+**[ Data & Observability ]**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,grafana,prometheus,elasticsearch,bash&theme=dark&perline=6" />
+
+<br/>
 
 </div>
 
 ---
 
-## ◈ GitHub Metrics
+## `> htop --user=Int3ch-Labs`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=int3ch-labs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=8892b0&ring_color=00f7ff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Int3ch-Labs&show_icons=true&hide_border=true&bg_color=020409&title_color=00f7ff&icon_color=64ffda&text_color=8892b0&ring_color=00f7ff&include_all_commits=true&count_private=true" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Int3ch-Labs&layout=compact&hide_border=true&bg_color=020409&title_color=00f7ff&text_color=8892b0&langs_count=6" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Int3ch-Labs&theme=github-dark-blue&hide_border=true&background=020409&ring=00f7ff&fire=64ffda&currStreakLabel=00f7ff&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Int3ch-Labs&bg_color=020409&color=64ffda&line=00f7ff&point=ffffff&area_color=0a192f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
+
+---
+
+## `> grep -r "standards" ./compliance`
+
+<div align="center">
+<br/>
+
+![](https://img.shields.io/badge/■%20ISO%2027001-Aligned-00f7ff?style=for-the-badge&labelColor=020409&color=020409&logoColor=00f7ff)
+![](https://img.shields.io/badge/■%20OWASP%20Top%2010-Compliant-00f7ff?style=for-the-badge&labelColor=020409&color=020409)
+![](https://img.shields.io/badge/■%20Zero--Trust-Architecture-64ffda?style=for-the-badge&labelColor=020409&color=020409)
+![](https://img.shields.io/badge/■%20POPIA-Compliant-64ffda?style=for-the-badge&labelColor=020409&color=020409)
+![](https://img.shields.io/badge/■%20SOC%202-Ready-00f7ff?style=for-the-badge&labelColor=020409&color=020409)
+![](https://img.shields.io/badge/■%20NIST%20CSF-Aligned-64ffda?style=for-the-badge&labelColor=020409&color=020409)
+
+<br/>
+</div>
+
+---
+
+## `> ping intechlabs.co.za`
+
+<div align="center">
+
+<br/>
+
+[![](https://img.shields.io/badge/◈%20%20Visit%20Our%20Website-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=020409&labelColor=00f7ff)](https://intechlabs.co.za)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=int3ch-labs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=8892b0" height="165" />
+[![](https://img.shields.io/badge/◈%20%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/company/intechlabs)
+&nbsp;&nbsp;
+[![](https://img.shields.io/badge/◈%20%20Email%20Us-64ffda?style=for-the-badge&logo=gmail&logoColor=020409&labelColor=64ffda)](mailto:info@intechlabs.co.za)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=int3ch-labs&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## ◈ Security Philosophy
+<br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  "Security is not a product, but a process."                 ║
-║                                                              ║
-║  We embed security at every layer — from architecture        ║
-║  design to deployment pipelines. Zero-trust by default.      ║
-║  Resilience by design. Compliance by engineering.            ║
-╚══════════════════════════════════════════════════════════════╝
+PING intechlabs.co.za: 56 bytes of data
+64 bytes from intechlabs.co.za: seq=0 ttl=64 time=0.001ms
+64 bytes from intechlabs.co.za: ttl=64 time=0.001ms ← always online
 ```
 
----
-
-## ◈ Certifications & Standards
-
-<div align="center">
-
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-Aligned-00f7ff?style=flat-square&logo=checkmarx&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Compliant-00f7ff?style=flat-square&logo=owasp&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC2-Ready-00f7ff?style=flat-square&logo=springsecurity&logoColor=white)
-![POPIA](https://img.shields.io/badge/POPIA-Compliant-00f7ff?style=flat-square&logo=databricks&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero--Trust-Architecture-00f7ff?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
-
----
-
-## ◈ Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_intechlabs.co.za-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f7ff&labelColor=0d1117)](https://intechlabs.co.za)
-[![Email](https://img.shields.io/badge/Contact_Us-0d1117?style=for-the-badge&logo=gmail&logoColor=00f7ff&labelColor=0d1117)](mailto:info@intechlabs.co.za)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d1117)](https://linkedin.com/company/intechlabs)
+<br/>
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a192f,100:020409&height=100&section=footer&text=Secure.%20Scalable.%20Trusted.&fontSize=16&fontColor=64ffda&fontAlignY=65&animation=twinkling" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=80&section=footer&fontColor=00f7ff" width="100%" />
-
-<sub>Built with precision · Secured by design · Powered by Intech Labs</sub>
-
+<div align="center">
+  <sub><code>© Intech Labs · Johannesburg, South Africa · intechlabs.co.za</code></sub>
 </div>
